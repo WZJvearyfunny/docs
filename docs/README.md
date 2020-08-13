@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /assets/largphoto/homePagePhoto.jpg
+# heroImage: /assets/largphoto/homePagePhoto.jpg
 heroText: 王真俊的博客
 tagline: PIPEDREAM's Blog
 actionText: 游泳健身了解下
@@ -14,4 +14,4 @@ features:
   details: 不是软件工程相关专业毕业，入行完全是因为兴趣。在一家外包公司打磨了3年时间，习得一身好武艺（学习能力贼拉强）。996如呼吸般简单。
 footer: Noone Licensed | Copyright © 2020-present wzj
 ---
-## 本博客基于 VuePress 打造
+#### 本博客基于 VuePress 打造
