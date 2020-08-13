@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/WZJvearyfunny/docs/issues"
   },
-  "homepage": "https://github.com/WZJvearyfunny/docs#readme"
+  "homepage": "https://github.com/WZJvearyfunny/docs#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
 }
