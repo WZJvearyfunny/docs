@@ -1,11 +1,13 @@
 module.exports = {
-  title:"PIPEDREAM's live",
+  title:"PIPEDREAM's life",
   description:"这是我的个人世界，存储在互联网上，用二进制的形式永存于世",
   head: [
     ['link', { rel: 'icon', href: '/assets/img/favicon.ico', }],
     ['meta', { name: 'author', content: '这是王真俊的自我描述，从24岁开始记录人生的一点一滴' }]
   ],
+  plugins: ['@vuepress/back-to-top','@vuepress/nprogress'],
   themeConfig: {
+    smoothScroll: true,
     lastUpdated: '更新时间',
     logo: '/assets/img/logo.png',
     nav: [{
